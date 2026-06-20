@@ -2,13 +2,13 @@
 import { Link } from "@tanstack/react-router";
 
 const INSTAGRAM_CHANNELS = [
-  { name: "Instagram Channel 1", url: "https://instagram.com/your_channel_1" },
-  { name: "Instagram Channel 2", url: "https://instagram.com/your_channel_2" },
+  { name: "Fashion Deals Hub", url: "https://www.instagram.com/fashion_deal_hub09?igsh=MTZyZzN3MmpzYjF4ZA%3D%3D" },
+  { name: "Home Beauty_Harshita", url: "https://www.instagram.com/home__beauty09/reels/" },
 ];
 
 const WHATSAPP_CHANNELS = [
-  { name: "WhatsApp Channel 1", url: "https://whatsapp.com/channel/your_channel_1" },
-  { name: "WhatsApp Channel 2", url: "https://whatsapp.com/channel/your_channel_2" },
+  { name: "WhatsApp Channel 1", url: "https://whatsapp.com/channel/0029VbCrcoB3rZZZrNQZHa0t" },
+  { name: "WhatsApp Channel 2", url: "https://whatsapp.com/channel/0029Vb8c0jiGU3BJUsK8lj09" },
 ];
 
 export default function Footer() {
